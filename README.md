@@ -1,6 +1,6 @@
  Network Packet Analyzer
 
-Develop a packet sniffer GUI tool that captures and analyzes network packets. Display relevant information such as source and destination IP addresses, protocols, and payload data. Ensure the ethical use of the tool for educational purposes.
+Develop a network packet analyzer GUI tool that captures and analyzes network packets. Display relevant information such as source and destination IP addresses, protocols, and payload data. Ensure the ethical use of the tool for educational purposes.
 
 Please take a moment to review the included PacketSnifferGUI.py file.
 
